@@ -1,0 +1,17 @@
+ca87290f7bfb22b6c7bf2d557ff44d93 *DESCRIPTION
+e45af5d0ee3354af9669bf638388201d *NAMESPACE
+b557d4edd2edb99f5cbb427c263a3d30 *R/delta.star.R
+fc7e96bb7391bf5360908c9dfaf613a4 *R/hardt.R
+b27bb027c26cbd6e068dd1cf3e017520 *R/novelist.assign.R
+b8c98e50bb9fd30ac5586cb835d66a37 *R/novelist.assign.inv.R
+fc4f32ca77b6530f4612454a38fba121 *R/novelist.cov.cv.R
+7a22260ba8c74d819150a11a0cc78b51 *R/novelist.inv.cv.R
+65930818ccfc0496e4a5e75c17a30684 *R/softt.R
+afb849746906c26dd93f4bb207f252fd *man/delta.star.Rd
+167f03f7ad09e3cb5b3744ab5a247241 *man/hardt.Rd
+2cdb77c44d3c321295249e47c067704e *man/novelist-package.Rd
+ce376da82d59840e7bfbd575d0974ad3 *man/novelist.assign.Rd
+b1d5a4a6eda0ea1a7581d2bdf48a8577 *man/novelist.assign.inv.Rd
+538164f3de0ead047e8b51c011dab5dc *man/novelist.cov.cv.Rd
+274be03430040418991cce299636bc73 *man/novelist.inv.cv.Rd
+bf1440051d3d34231d75eea7d26b048c *man/softt.Rd
